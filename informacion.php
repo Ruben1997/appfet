@@ -43,7 +43,7 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <!--Codigo que me permite mostrar los items o enlaces para navegar entre las distintas paginas-->
-                        <li class="seleccione"><a href="index.php">Inicio</a></li>
+                        <li class="seleccione"><a href="index.html">Inicio</a></li>
                         <li class="seleccione"><a href="consultar.php">Consultas</a></li>
                         <li class="seleccione active"><a href="informacion.php">Informacion</a></li>
                         <li class="seleccione"><a href="creditos.php">Creditos</a></li>

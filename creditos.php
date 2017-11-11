@@ -33,7 +33,7 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="seleccione"><a href="index.php">Inicio</a></li>
+                        <li class="seleccione"><a href="index.html">Inicio</a></li>
                         <li class="seleccione"><a href="consultar.php">Consultas</a></li>
                          <li class="seleccione"><a href="informacion.php">Informacion</a></li>
                         <li class="seleccione active"><a href="creditos.php">Creditos</a></li>
