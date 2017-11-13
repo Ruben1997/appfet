@@ -8,17 +8,6 @@
         <script src="librerias/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <link href="css/styles.css" rel="stylesheet" type="text/css"/>
     </head>
-    <style>
-        body {
-            font-family: 'Montserrat', sans-serif;
-            font-weight: 400;
-            font-size: 16px;
-        }
-        .sombra{
-            box-shadow:2px 2px 5px 1px #999;
-            cursor: pointer;
-        }
-    </style>
     <body>
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
@@ -36,6 +25,8 @@
                         <li class="seleccione"><a href="index.html">Inicio</a></li>
                         <li class="seleccione active"><a href="consultar.php">Consultas</a></li>
                         <li class="seleccione"><a href="informacion.php">Informacion</a></li>
+                        <li class="seleccione"><a href="galeria.php">Galeria</a></li>
+                        <li class="seleccione"><a href="videos.php">Videos</a></li>
                         <li class="seleccione"><a href="creditos.php">Creditos</a></li>
                     </ul>
                 </div>
@@ -89,19 +80,9 @@
                 ?>
             </div>
         </div>
-        <footer>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                    </div>
-                    <div class="col-md-4">
-                        <span class="copyright">Copyright &copy; 2017</span>
-                    </div>
-                    <div class="col-md-4">
-                    </div>
-                </div>
-            </div>
-        </footer>
+        <!--Codigo html para mostrar el pie de la pagina o footer-->
+        <div class="footer"><strong>Copyright &copy; 2017</strong></div>
+        <!--Fin footer-->
     </body>
 </html>
 

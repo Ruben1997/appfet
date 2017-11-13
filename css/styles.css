@@ -1,22 +1,24 @@
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-footer {
-    padding: 25px 0;
-    text-align: center;
+body {
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.sombra{
+    box-shadow:2px 2px 5px 1px #999;
+    cursor: pointer;
+}
+.footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
     background-color: #333333;
     color:#FFFFFF;
-}
-footer span.copyright {
-    line-height: 40px;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
-    text-transform: none;
-}
-footer ul.quicklinks {
-    margin-bottom: 0;
-    line-height: 40px;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
-    text-transform: none;
+    text-align: center;
+
 }
 #headerwrap2 {
     background: url(../img/bannerWeb.jpg) no-repeat center bottom;
@@ -45,14 +47,5 @@ footer ul.quicklinks {
     letter-spacing: 3px;
     font-size: 60px;
     font-weight: bold;
-}
-#footerwrap {
-    padding-top: 70px;
-    padding-bottom: 50px;
-    background-color: #424242;
-}
-#footerwrap p {
-    color: #f2f2f2;
-    margin-left: 10px;
 }
 
