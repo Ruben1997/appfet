@@ -64,7 +64,7 @@
                 <div class="panel panel-default sombra">
                     <div class="panel-body">
                         <div class="embed-responsive embed-responsive-4by3">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7N2SjoqRHn8"></iframe>
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7N2SjoqRHn8" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                 <div class="panel panel-default sombra">
                     <div class="panel-body">
                         <div class="embed-responsive embed-responsive-4by3">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NIk76R_EOtU"></iframe>
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NIk76R_EOtU" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                 <div class="panel panel-default sombra">
                     <div class="panel-body">
                         <div class="embed-responsive embed-responsive-4by3">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0jZ44WGHUNA"></iframe>
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0jZ44WGHUNA" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                 <div class="panel panel-default sombra">
                     <div class="panel-body">
                         <div class="embed-responsive embed-responsive-4by3">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bKl_R8t9teo"></iframe>
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bKl_R8t9teo" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
